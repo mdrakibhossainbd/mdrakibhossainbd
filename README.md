@@ -16,8 +16,9 @@
 
 <br />
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+#### Personal Info
+- :paperclip: [My Resume](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Personal Portfolio](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 <br />
 
 ## Languages and Tools:

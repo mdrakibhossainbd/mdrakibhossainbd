@@ -74,7 +74,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<br/>
 ### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=mdrakibhossainbd&count_private=true&theme=tokyonight&hide=contribs,prs)

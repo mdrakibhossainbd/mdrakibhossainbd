@@ -10,9 +10,9 @@
 - 💻 Interested in ML, NLP, Robotics 😍😍 
 
 ## Connect with me:
-[![Gmail Badge](https://img.shields.io/badge/-mdrakibhossainbd75@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdrakibhossainbd75@gmail.com)](mailto:dhrubo9250@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/diptonil-singho-dhrubo-048305158/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/DiptonilSingha/)
+[![Gmail Badge](https://img.shields.io/badge/-mdrakibhossainbd75@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdrakibhossainbd75@gmail.com)](mailto:mdrakibhossainbd75@gmail.com)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rakib-hossain-425725a1/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rakib.hossain.739)
 
 <br />
 

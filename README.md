@@ -53,14 +53,13 @@
 8. [Smart Calculatro](https://mdrakibhossainbd.github.io/simple-calculator/)
 9. [Pin Matcher Smart Door Loker](https://mdrakibhossainbd.github.io/assignment-pin-matcher-master/)
 
-<br />
+
 <br />
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdrakibhossainbd.mdrakibhossainbd)
 
-<br/>
 <br/>
 
 
@@ -75,6 +74,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<br/>
 ### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=mdrakibhossainbd&count_private=true&theme=tokyonight&hide=contribs,prs)

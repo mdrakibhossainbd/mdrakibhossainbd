@@ -9,7 +9,7 @@
 - 💻 Always curious about new technology 🤩🤩
 - 💻 Interested in ML, NLP, Robotics 😍😍 
 
-## Connect with me:
+### Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-mdrakibhossainbd75@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdrakibhossainbd75@gmail.com)](mailto:mdrakibhossainbd75@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/md-rakib-hossain-425725a1/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rakib.hossain.739)
@@ -21,7 +21,7 @@
 - :paperclip: [My Personal Portfolio](https://personal-portfolio-ccb28.web.app/)
 <br />
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -41,7 +41,7 @@
 <br />
 <br />
 
-## Some projects I worked on: 
+### Some projects I worked on: 
 
 1. [Red Onion Restaurant](https://red-onion-project-c2459.web.app/)
 2. [Creative Agency](https://agency-creative.web.app/)
@@ -58,7 +58,6 @@
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdrakibhossainbd.mdrakibhossainbd)
-[ Personal_website]: https://personal-portfolio-ccb28.web.app/
 
 <br/>
 <br/>

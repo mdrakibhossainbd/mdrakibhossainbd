@@ -38,14 +38,15 @@
 
 ## Some projects I worked on: 
 
-1. [Red Onion Restaurant](https://hot-onion-ffd33.web.app//)
-2. [Creative Agency](https://crea1ive-agency.web.app/)
-3. [Volunteer Network](https://volunteer-network-a5800.web.app/)
-4. [Travel Guru](https://travel-guru-807b6.web.app//) 
-5. [Social Buddy](https://mybuddy.netlify.app//)
-6. [Weather Forecast](https://dhrubo020.github.io/weather/)
-7. [E-School](https://dhrubo020.github.io/e-school/index.html)
-8. [Hot Gadget](https://dhrubo020.github.io/hot-gadgets1/)
+1. [Red Onion Restaurant](https://red-onion-project-c2459.web.app/)
+2. [Creative Agency](https://agency-creative.web.app/)
+3. [Volunteer Network](https://volunteer-network-cb543.web.app/)
+4. [Travel Guru](https://frosty-aryabhata-3947f8.netlify.app/) 
+5. [Doctors Portal](https://doctors-portal-e49b5.web.app/)
+6. [Power-X-Gym](https://power-x-gym-project.web.app/)
+7. [Athena Agency Service](https://athena-design-main.web.app/)
+8. [Smart Calculatro](https://mdrakibhossainbd.github.io/simple-calculator/)
+9. [Pin Matcher Smart Door Loker](https://mdrakibhossainbd.github.io/assignment-pin-matcher-master/)
 
 <br />
 <br />
@@ -55,4 +56,4 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo020&card_width=550)](https://github.com/dhrubo020/dhrubo020)
 
-[website]: https://dnsdhrubo.netlify.app/
+[website]: https://personal-portfolio-ccb28.web.app/

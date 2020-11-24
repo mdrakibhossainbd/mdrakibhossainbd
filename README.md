@@ -52,7 +52,7 @@
 <br />
 
 
-<img width="550" alt="Rakib_Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dhrubo020&show_icons=true"/>
+<img width="550" alt="Rakib_Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=rakib_hossain&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo020&card_width=550)](https://github.com/dhrubo020/dhrubo020)
 

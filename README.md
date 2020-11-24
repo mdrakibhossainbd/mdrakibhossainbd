@@ -55,15 +55,15 @@
 
 <br />
 <br />
-#### Profile Visits 
-
+### Profile Visits 
+<br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdrakibhossainbd.mdrakibhossainbd)
 
 <br/>
 <br/>
 
 
-#### Coding Stats
+### Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
@@ -74,7 +74,7 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### Github Stats
+### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=mdrakibhossainbd&count_private=true&theme=tokyonight&hide=contribs,prs)
 

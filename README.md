@@ -51,9 +51,4 @@
 <br />
 <br />
 
-
-<img width="550" alt="Rakib_Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=rakib_hossain&show_icons=true"/>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubo020&card_width=550)](https://github.com/dhrubo020/dhrubo020)
-
-[website]: https://personal-portfolio-ccb28.web.app/
+[ Personal_website]: https://personal-portfolio-ccb28.web.app/
